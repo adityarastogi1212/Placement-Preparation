@@ -7,3 +7,6 @@ for internships
 
 for reference
 1. https://github.com/adityarastogi1212/Complete-Placement-Preperation-Guide
+
+For online programming book's-
+https://books.goalkicker.com/
