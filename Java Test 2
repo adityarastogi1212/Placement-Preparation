@@ -1,0 +1,61 @@
+Java EE : Core Java Quiz 2
+Which of the following for loop declaration is not valid? *
+1 point
+for ( int i = 99; i >= 0; i / 9 )
+for ( int i = 7; i <= 77; i += 7 )
+for ( int i = 20; i >= 2; - -i )
+for ( int i = 2; i <= 20; i = 2* i )
+Which option is false about the final keyword? *
+1 point
+final method cannot be overridden in its subclasses.
+A final class cannot be extended.
+A final class cannot extend other classes.
+A final method can be inherited.
+Which method of the Class.class is used to determine the name of a class represented by the class object as a String? *
+1 point
+getClass()
+intern()
+getName()
+toString()
+Which of these classes are the direct subclasses of the Throwable class? *
+1 point
+RuntimeException and Error class
+Exception and VirtualMachineError class
+Exception and Error class
+IOException and VirtualMachineError class
+In which memory a String is stored, when we create a string using new operator? *
+1 point
+Stack
+String memory
+Heap
+Random storage space
+Which of the given methods are of Object class? *
+1 point
+notify(), wait( long msecs ), and synchronized()
+wait( long msecs ), interrupt(), and notifyAll()
+notify(), notifyAll(), and wait()
+sleep( long msecs ), wait(), and notify()
+In character stream I/O, a single read/write operationperforms _____. *
+1 point
+Two bytes read/write at a time.
+Eight bytes read/write at a time.
+Five bytes read/ write at a time.
+None of the above
+What is meant by the classes and objects that dependents on each other? *
+1 point
+Tight Coupling
+Cohesion
+Loose Coupling
+None of the above
+What is the use of \w in regex? *
+1 point
+Used for a whitespace character
+Used for a non whitespace character
+Used for a word character
+Used for a non word character
+Which of the following is a mutable class in java? *
+1 point
+java.lang.String
+java.lang.Byte
+java.lang.Short
+java.lang.StringBuilder
