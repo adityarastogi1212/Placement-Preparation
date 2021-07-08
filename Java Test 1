@@ -1,0 +1,63 @@
+Java EE : Core Java Quiz 3
+Which two features of object-oriented programming are the same? *
+1 point
+Abstraction and Polymorphism features are the same
+Inheritance and Encapsulation features are the same
+Encapsulation and Polymorphism features are the same
+None of the above
+Which of the following is true about inheritance in Java? 1) Private methods are final. 2) Protected members are accessible within a package and inherited classes outside the package. 3) Protected methods are final. 4) We cannot override private methods. *
+1 point
+a. 1, 2 and 4
+b. Only 1 and 2
+c. 1, 2 and 3
+d. 2, 3 and 4
+What is the output for the following java code? *
+1 point
+Captionless Image
+a. Base::show() called
+b. Derived::show() called
+c. Compiler Error
+d. Runtime Error
+What is the output for the below code? *
+1 point
+Captionless Image
+a. Value-A
+b. Name-B
+c. Value A Name-B
+d. Compilation fails – private method cannot be override
+Which of the following is not an OOPS concept? *
+1 point
+Encapsulation
+Polymorphism
+Exception
+Abstraction
+Which among the following is not a member of the class? *
+1 point
+Virtual function
+const function
+Static function
+Friend function
+In a Java Thread can be created by ________ ? *
+1 point
+a. Extending the Thread class
+b. Implementing Runnable Interface
+c. Both of the above
+d. None of the above
+Which among the following cannot be used for the concept of polymorphism? *
+1 point
+Static member function
+Constructor Overloading
+Member function overloading
+Global member function
+Which of the following definition is incorrect for polymorphism? *
+1 point
+Polymorphism helps in redefining the same functionality
+Polymorphism concept is the feature of object-oriented programming (OOP)
+It always increases the overhead of function definition
+Ease in the readability of the program
+Which feature of OOPS described the reusability of code? *
+1 point
+Abstraction
+Encapsulation
+Polymorphism
+Inheritance
