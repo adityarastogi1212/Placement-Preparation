@@ -1,0 +1,60 @@
+Which of these operators is used to allocate memory to array variable in Java? *
+1 point
+Alloc
+Malloc
+new malloc
+New
+In Java code, the line that begins with /* and ends with */ is known as? *
+1 point
+Multiline comment
+Single line comment
+Both A & B
+None of these
+Which one is a template for creating different objects ? *
+1 point
+An Array
+A class
+Interface
+Method
+Which of these is not a bitwise operator? *
+1 point
+&' Operator
+&=' Operator
+|=' Operator
+<=' Operator
+Which of the following are not the methods of the Thread class? *
+1 point
+a)yield()
+sleep(long msec)
+go()
+stop()
+Division operator has ____ precedence over multiplication operator *
+1 point
+Heighest
+Least
+Equal
+None of These
+What is garbage collection in the context of Java? *
+1 point
+Java deletes all unused java files on the system.
+Memory used by the object with no reference is automatically reclaimed.
+The JVM cleans output of Java program with error.
+Any unused package in a program automatically gets deleted.
+Java language was initially called as ________ *
+1 point
+A.Sumatra
+B.J++
+C.Oak
+Pine
+In java control statements break, continue, return, try-catch-finally and assert belongs to? *
+1 point
+Selection statements
+Loop Statements
+Transfer statements
+Pause Statement
+Modulus operator (%) can be applied to which of these? *
+1 point
+Integers
+Floating - point numbers
+Both A and B
+None of These
