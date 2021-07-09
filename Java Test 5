@@ -1,0 +1,59 @@
+Java EE : Java Beans JSTL Tags Quiz 7
+In JSTL for and foreach loops both are implemented using <c:forEach> tag. *
+1 point
+False
+True
+____________________ tag is used to set the property in the bean using setter method *
+1 point
+<jsp:useBean></jsp:useBean>
+<jsp:setProperty></jsp:setProperty>
+<jsp:bean></jsp:bean>
+<jsp:getProperty></jsp:getProperty>
+____________________ tag is used to get the property in the bean using getter method. *
+1 point
+<jsp:getProperty></jsp:getProperty>
+<jsp:bean></jsp:bean>
+<jsp:useBean></jsp:useBean>
+<jsp:setProperty></jsp:setProperty>
+___________________ scope is used to make the impact over entire application. *
+1 point
+session
+application
+page
+request
+_____________________ tag is used to locate a bean class. *
+1 point
+<jsp:useBean></jsp:useBean>
+<jsp:getProperty></jsp:getProperty>
+<jsp:bean></jsp:bean>
+<jsp:setProperty></jsp:setProperty>
+______________ tag is used to catch the Exception in JSTL. *
+1 point
+<c:try></c:try>
+<catch></catch>
+<c:catch></c:catch>
+<c:exception></c:exception>
+A JSP object created using the _______________ scope can be accessed from any pages that serves that request. *
+1 point
+session
+request
+application
+page
+<c:url value="https://google.com"/> *
+1 point
+redirects to the google page
+displays "https://google.com" text on the web browser
+doesn't displays, Just holds the https://google.com as its value
+None of the above
+<jsp:setProperty property="*" name="user"/> What does the * means in the above code? *
+1 point
+many to one correspondence between form submitted data and bean
+one to many correspondence between form submitted data and bean
+many to many correspondence between form submitted data and bean
+one to one correspondence between form submitted data and bean
+Which of the following are the two mandatory attributes of <c:forTokens> tag. *
+1 point
+items and delims
+items and values
+items and var
+var and values
