@@ -1,0 +1,57 @@
+Whenever we submit form using GET method the information is *
+1 point
+visible to the user and gets submitted by the URL
+invisible to the user and gets submitted by the URL
+invisible to the user and submitted through invisible channel
+none of the above
+Syntax of jsp include? *
+1 point
+<%jsp:include file="filename"%>
+<jsp:include page="filename"/>
+<jsp-include page="filename"/>
+<jsp:include file="filename"/>
+MVC stands for? *
+1 point
+Mobile View Concept
+Mobile View Controller
+Model View Controller
+Major View Concept
+Model deals with ___________View deals with ___________Controller deals with ___________ *
+1 point
+UI, Database, Business Logic
+Database, UI, Business Logic
+UI, Business Logic, Database
+tag that is used to forward the request to specified file *
+1 point
+<jsp:redirect page="filename"/>
+<jsp:forward page="filename"/>
+<a href="filename"></a>
+<%forward page="filename">
+Objects that are created by the web container are known as _______________ *
+1 point
+explicit objects
+intermediate objects
+hybrid objects
+implicit objects
+It is always good to use ___________________ for static content and ___________________ for dynamic content *
+1 point
+directive include and jsp include
+jsp include and directive include
+directive include and directive include
+jsp include and jsp include
+Why we use the action attribute in form tag? *
+1 point
+We use the action attribute to specify the HTTP method.
+We use the action attribute to specify the URL where the form must be submitted
+We use the action attribute to call user defined function on click of submit button
+none of the above
+URL remains unchanged when we make use of response.sendRedirect("filename") method? *
+1 point
+True
+False
+Which of the below statement is used to import a file? *
+1 point
+<%@ page import="packagename.className"%>
+<jsp:include page="filename"/>
+<%@ include file="filename">
+import * from packagename className;
