@@ -2,7 +2,22 @@
 
 (will add more links later,so please give a follow)
 
-Interview Questions
+for aptitude (!important💥💥)
+1. some are above to give you basic ideas
+2. faceprep, indiabix 
+3. https://www.youtube.com/c/ChandanLogics/playlists (must watch aptitude shortcuts)
+
+for practice (!important💥💥)
+1. geeksforgeeks
+2. leetcode
+3. hackerrank
+
+for competitive coding
+1. interviewbit
+2. hackerearth
+3. codeforces
+
+Interview Questions (!important💥💥)
 1. https://www.javatpoint.com/corejava-interview-questions
 2. https://cb.lk/interview/tests
 
