@@ -26,14 +26,41 @@ Interview Questions (!important💥💥)
 
 
 for internships
-1. https://docs.google.com/spreadsheets/u/0/d/14bjfb1BiKoCHumrJUowIpBWI5_VFpisoDg4-aV4EpPw/htmlview
+1. linkedin
+2. internshala
+3. https://docs.google.com/spreadsheets/u/0/d/14bjfb1BiKoCHumrJUowIpBWI5_VFpisoDg4-aV4EpPw/htmlview
+
 
 
 for jobs (off campus)
 1. linkedin (referrals)
 2. d2C
 3. firstnaukri
-4. angelist
+4. angelist 
+
+http://trooven.com
+
+weworkremotely.com
+
+angel.co
+
+Remotive.io
+
+Remote.co
+
+http://remoteok.io
+
+https://nowhiteboards.io/
+
+https://hasjob.co/
+
+https://airtable.com/universe/expTlpqbtN24X8Rus/hiring-without-whiteboards
+
+https://github.com/poteto/hiring-without-whiteboards
+
+https://github.com/trstringer/remote-jobs-hiring-without-whiteboards
+
+
 5. Elitmus, relevel, 
 
 
