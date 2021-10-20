@@ -26,8 +26,8 @@ Interview Questions (!important💥💥)
 
 
 for internships
-1. linkedin
-2. internshala
+1. internshala
+2. linkedin
 3. https://docs.google.com/spreadsheets/u/0/d/14bjfb1BiKoCHumrJUowIpBWI5_VFpisoDg4-aV4EpPw/htmlview
 
 
