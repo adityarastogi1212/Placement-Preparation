@@ -33,16 +33,12 @@ for internships
 
 
 for jobs (off campus)
-1. linkedin (referrals)
+1. linkedin (referrals), http://trooven.com
 2. d2C
 3. firstnaukri
-4. angelist 
-
-http://trooven.com
+4. angelist (angel.co)
 
 weworkremotely.com
-
-angel.co
 
 Remotive.io
 
