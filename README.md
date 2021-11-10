@@ -37,6 +37,7 @@ for jobs (off campus)
 2. d2C
 3. firstnaukri
 4. angelist (angel.co)
+5. https://practice.geeksforgeeks.org/jobs
 
 weworkremotely.com
 
@@ -57,7 +58,7 @@ https://github.com/poteto/hiring-without-whiteboards
 https://github.com/trstringer/remote-jobs-hiring-without-whiteboards
 
 
-5. Elitmus, relevel, 
+5. Elitmus, relevel, cocubes
 
 
 for mock interviews
