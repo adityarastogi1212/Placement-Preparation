@@ -65,6 +65,17 @@ for mock interviews
 1. https://www.pramp.com/invt/E62BN38Q7lHJl0o3w8Z8
 
 
+Some Common Internship Tasks
+1. https://drive.google.com/file/d/1_l6GTOdgreSIiZJ1enXt-4tnKJzLd4Ah/view?usp=sharing
+2. https://jsfiddle.net/theo/VsWb9/
+3. https://docs.google.com/document/d/1_9145BKkQLpwnxA9tclMjnjs0wytUdQW/edit?usp=sharing&ouid=109507069808868279211&rtpof=true&sd=true
+4. https://drive.google.com/file/d/1RM4A6gfN93Zy_VKBC-L1QW43dJ4u5hYg/view?usp=sharing
+5. https://drive.google.com/file/d/1_TT_WlF38DY9xXeTmYCP7O-Xvtjyx_T9/view?usp=sharing
+6. https://drive.google.com/file/d/1AswiXwZn7sUP7yC69gMExVVAXuxr8WNY/view?usp=sharing
+7. https://drive.google.com/file/d/1q5ZYE6GuRMrwv6pQO7gaMZdrtNtmil3F/view?usp=sharing
+8. https://drive.google.com/file/d/1eIVb4QzJJvDPrDqRxFVoiIaITP6AC0Hx/view?usp=sharing
+
+
 for reference
 1. https://github.com/adityarastogi1212/Placement_Resources
 2. https://github.com/adityarastogi1212/Complete-Placement-Preperation-Guide
