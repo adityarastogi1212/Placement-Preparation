@@ -2,6 +2,12 @@
 
 (will add more links later,so please give a follow)
 
+for resume (!important💥💥)
+1. novoresume.com
+2. flowcv.io
+3. resumake.io
+
+
 for aptitude (!important💥💥)
 1. some are above to give you basic ideas
 2. faceprep, indiabix 
@@ -59,6 +65,150 @@ https://github.com/trstringer/remote-jobs-hiring-without-whiteboards
 
 
 5. Elitmus, relevel, cocubes
+
+
+      Websites where companies post part-time, full-time and remote positions for you to apply to😍
+
+      These are almost all the websites you need for  finding internships, jobs, freelance work, remote jobs etc. 🤩
+
+
+Indeed — https://www.indeed.com
+
+Craigslist — https://www.craigslist.com
+
+Simply Hired — https://www.simplyhired.com
+
+Authentic Jobs — https://authenticjobs.com
+
+Robert Half — https://www.roberthalf.com
+
+Krop — https://www.krop.com
+
+Career Builder — https://www.careerbuilder.com
+
+Linkedin Profinder — https://www.linkedin.com/profinder
+
+Mashable — http://jobs.mashable.com/jobs/browse
+
+Smashing Magazine — https://www.smashingmagazine.com/jobs
+
+Power To Fly (Women) — https://powertofly.com
+
+Who Is Hiring — https://whoishiring.io
+
+WebDevJobs — https://webdevjobs.co
+
+Aquent — https://aquent.com
+
+Idealist — https://www.idealist.org
+
+The Muse — https://www.themuse.com
+
+Landing Jobs (UK) — https://landing.jobs
+
+Sologig — https://www.sologig.com
+
+Dice — https://www.dice.com
+
+WPHired (Wordpress) — https://www.wphired.com
+
+GitHub Jobs — https://jobs.github.com
+
+Stack Overflow — https://stackoverflow.com/jobs
+
+   Startup Job Find - Websites that specialize in jobs for startup companies
+
+Angel — https://angel.co
+
+Underdog — https://underdog.io
+
+Product Hunt — https://www.producthunt.com/jobs
+
+Startupers — https://www.startupers.com
+
+ycombinator — https://news.ycombinator.com/jobs
+
+   Freelancer Sites - Websites where individuals and companies post specific projects for freelancers
+
+Upwork — https://www.upwork.com
+
+Freelancer — https://www.freelancer.com
+
+Freelancermap — https://www.freelancermap.com
+
+Guru — https://www.guru.com
+
+Outsource — https://outsource.com
+
+Local Solo — https://localsolo.com
+
+People Per Hour — https://www.peopleperhour.com
+
+CloudPeeps — https://www.cloudpeeps.com
+
+GigGrabbers — https://www.giggrabbers.com
+
+Lemon.io — https://lemon.io
+
+   Screened Freelancer Sites - Websites where they screen the freelancers to get the best possible providers for clients
+
+Toptal — https://www.toptal.com
+
+Coworks — https://coworks.com
+
+Gun — https://www.gun.io
+
+Folyo — https://folyo.me
+
+   Remote Jobs - Websites that focus on getting people remote work
+
+Remoteco — https://remote.co/remote-jobs
+
+We Work Remotely — https://weworkremotely.com
+
+Remotive — https://remotive.io
+
+Skip The Drive — https://www.skipthedrive.com
+
+Working Nomads — https://www.workingnomads.co/jobs
+
+Flex Jobs — https://www.flexjobs.com
+
+Youteam — http://youteam.io
+
+   Micro Jobs/Services - Websites where you can post a service that you offer, usually for a low price
+
+Fiverr — https://www.fiverr.com
+
+Envato Studio — https://studio.envato.com
+
+Gigbucks — https://gigbucks.com
+
+Zeerk — https://zeerk.com
+
+Task Army — https://taskarmy.com
+
+Damongo — https://www.damongo.com
+
+   For Designers- Websites that are geared more toward designers and UI/UX
+
+Behance — https://www.behance.net
+
+Dribble — https://dribbble.com/jobs
+
+Coroflot — https://www.coroflot.com/design-jobs
+
+UX Job Board — https://www.uxjobsboard.com
+
+DesignHill — https://www.designhill.com
+
+   Contests & Challenges - Websites that offer challenges and contests but at the same time, can get you hired
+
+Topcoder — https://www.topcoder.com
+
+Challenge Rocket — https://challengerocket.com
+
+Hacker Rank — https://www.hackerrank.com
 
 
 for mock interviews
