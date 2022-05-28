@@ -1,0 +1,45 @@
+https://youtu.be/yKSDJHgZ5ug
+
+https://www.freecodecamp.org/news/how-to-use-git-and-github-in-a-team-like-a-pro/
+Harry Potter example
+
+https://github.com/je-suis-tm/web-scraping
+Thanks for this Amazing resource - Taken from Group Description 🤩👍
+
+https://www.freecodecamp.org/news/markdown-cheat-sheet/
+
+Best places to start learning #frontend development for free:
+
+HTML and CSS  - Basics  - https://www.w3schools.com/
+HTML and CSS - Intermediate - https://lnkd.in/gwJqbssW
+CSS Flexbox - Intermediate - https://flexboxfroggy.com/
+HTML and CSS Projects - Intermediate - https://lnkd.in/g_DN9qTe
+HTML and CSS Projects - Intermediate - https://lnkd.in/gybbFhBr
+Javascript - Basics - https://lnkd.in/gYNcdipw
+Javascript and DOM - Intermediate - https://javascript.info/
+Javascript - Advanced - https://lnkd.in/gah2c3kG
+Critical rendering path - Advanced - https://lnkd.in/ggfGzHzP
+Javascript - Advanced - https://lnkd.in/gpkCuZcA
+Machine coding - Advanced - https://lnkd.in/ghpKKfJq
+Browser Rendering- Advanced - https://lnkd.in/gSHQxgvQ
+ReactJs - Begineer - https://lnkd.in/ga9b6tYc
+ReactJs - Advanced - https://reactjs.org/
+React fiber - Advanced - https://lnkd.in/ggimT68q
+Practice at : bfe.dev
+
+Data Structures Cheat Sheet
+https://www.interviewcake.com/data-structures-reference
+
+https://cushychicken.github.io/more-web-scraper-notes/
+
+A fantastic website where you can learn anything for free
+https://learn-anything.xyz/
+
+An awesome website take a look
+https://www.prepostseo.com/
+
+Hello if any one wants to  brushup on some theoretical aspect of DSA quickly
+-- they can have a look --> https://www.toolsqa.com/data-structures/data-structures-tutorial/
+
+Best platform to build ATS Resume
+https://curiousdevelopers.in/job-related-queries/resume-builder/
