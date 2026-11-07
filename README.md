@@ -6,6 +6,7 @@ for resume (!important💥💥)
 1. novoresume.com
 2. flowcv.io
 3. resumake.io
+4. [ResumeInvited](https://resumeinvited.com/) — Free resume editor with PDF and editable Word export, no account needed.
 
 
 for aptitude (!important💥💥)
